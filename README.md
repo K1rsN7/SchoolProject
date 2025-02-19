@@ -1,4 +1,15 @@
 <img src="./banner.png">
+<div align="center">
+  <a href="https://github.com/K1rsN7/SchoolProject/issues">
+		<img src="https://img.shields.io/github/issues/K1rsN7/SchoolProject?color=83CFD1&labelColor=047F79&style=for-the-badge">
+	</a>
+	<a href="https://github.com/K1rsN7/SchoolProject/stargazers">
+		<img src="https://img.shields.io/github/stars/K1rsN7/SchoolProject?color=83CFD1&labelColor=047F79&style=for-the-badge">
+	</a>
+	<a href="./LICENSE">
+		<img src="https://img.shields.io/github/license/K1rsN7/SchoolProject?color=83CFD1&labelColor=047F79&style=for-the-badge">
+	</a>
+</div>
 
 # Quadratic Equations: Generator and Solver
 
@@ -73,3 +84,12 @@ This project was developed by **Kirill Sukhorukov** in March 2021.
 ## Acknowledgments
 
 Thanks to my computer science teacher for their guidance and support in learning Python and creating this project!
+
+<h2>Star History</h2>
+<a href="https://star-history.com/#K1rsN7/SchoolProject&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=K1rsN7/SchoolProject&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=K1rsN7/SchoolProject&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=K1rsN7/SubManage&type=Date" />
+ </picture>
+</a>
