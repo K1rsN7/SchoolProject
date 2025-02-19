@@ -1,3 +1,5 @@
+<img src="./banner.png">
+
 # Quadratic Equations: Generator and Solver
 
 ## Project Description
